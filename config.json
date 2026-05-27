@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvalculate",
+        "uuid": 1901675,
+        "checksum": "cochv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
